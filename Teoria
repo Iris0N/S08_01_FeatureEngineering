@@ -1,0 +1,36 @@
+ 8. Sprint 8. Correlation, Feature Scaling & Feature Engineering
+
+Durada : 4 dies  
+
+Important familiaritzar-se amb els fonaments de Hypothesis Testing, principal objectiu de les estadístiques.
+
+Objectiu general: 
+
+    Familiaritzar-se amb els fonaments de la ciència de dades del Machine Learning 
+    Treballar correctament amb les variables Correlació, covariància i Feature escaling
+
+Objectiu específic: 
+
+    Aplicar correctament les tècniques i variables del Python: Preprocesament, Transformació Dummy variables i Train Test. 
+    Millorar la precisió del moodle amb les variables  
+    Normalitzar i estandarditzar correctament 
+
+ Si algun recurs de towardsdatascience o medium demana registre, proveu d’obrir-lo en finestra d’incògnit.
+
+Correlation, Feature Scaling and Feature Engineering
+
+En aquest llibre explorem la correlació entre variables i conceptes bàsics sobre el Feature Scaling i el Feature Engineering. Cal que entenguis tots els seus components, i, si vols aprofundir més en la matèria, també entenguis les definicions de les fórmules.
+1. Correlation
+
+En aquest capítol explorem la correlació entre variables. Cal que entenguis el concepte de correlació, i, si vols aprofundir més en la matèria, també entenguis les definicions de les fórmules.
+
+Material didàctic
+
+Covariance and correlation:
+https://stackabuse.com/covariance-and-correlation-in-python/
+
+Numpy, Scipy and pandas: correlation:
+https://realpython.com/numpy-scipy-pandas-correlation-python/
+
+Cercar la correlació entre múltiples variables (conjunt de dades multidimensional):
+https://medium.com/@sebastiannorena/finding-correlation-between-many-variables-multidimensional-dataset-with-python-5deb3f39ffb3
