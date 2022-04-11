@@ -34,3 +34,59 @@ https://realpython.com/numpy-scipy-pandas-correlation-python/
 
 Cercar la correlació entre múltiples variables (conjunt de dades multidimensional):
 https://medium.com/@sebastiannorena/finding-correlation-between-many-variables-multidimensional-dataset-with-python-5deb3f39ffb3
+
+
+2. Feature Scaling
+
+Els data scientists, una part important del temps ens el passem netejant dades. La neteja de dades és una part molt important per a que els models funcionin de manera òptima.
+
+En aquest capítol veurem diferents mètodes per escalar i normalitzar dades.
+
+Seguidament, podràs observar aquests tutorials per començar a conèixer aspectes bàsics sobre com escalar o normalitzar dades.
+
+Feature Scaling: Com escalar i normalitzar les dades d’aprenentatge automàtic:
+https://machinelearningmastery.com/scale-machine-learning-data-scratch-python/
+
+Feature Scaling: Scaling of Data:
+https://medium.com/@stallonejacob/data-science-scaling-of-data-in-python-ec7ad220b339
+
+
+
+Correlation, Feature Scaling and Feature Engineering
+
+En aquest llibre explorem la correlació entre variables i conceptes bàsics sobre el Feature Scaling i el Feature Engineering. Cal que entenguis tots els seus components, i, si vols aprofundir més en la matèria, també entenguis les definicions de les fórmules.
+3. Feature Engineering
+
+Com et comentàvem en l'anterior capítol, la neteja de dades és molt important per a que els models funcionin correctament, i també ho és l'enginyeria de variables. En aquest llibre estudiaràs quines tècniques es poden aplicar a les variables per tal de representar el coneixement de manera òptima.
+Preprocessat bàsic
+
+Millorar la precisió del model amb Data Pre-Processing:
+https://machinelearningmastery.com/improve-model-accuracy-with-data-pre-processing/
+
+Dummy variables:
+https://towardsdatascience.com/the-dummys-guide-to-creating-dummy-variables-f21faddb1d40
+
+    Transformar variables categòriques en Dummy Variables
+
+8 maneres demostrades per millorar la “precisió-accuracy” d’un model d’aprenentatge automàtic:
+https://www.analyticsvidhya.com/blog/2015/12/improve-machine-learning-results/
+
+Feature engineering:
+https://towardsdatascience.com/feature-engineering-in-python-part-i-the-most-powerful-way-of-dealing-with-data-8e2447e7c69e
+
+How to choose a feature selection method for machine learning:
+https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/#:~:text=There%20are%20two%20main%20types,into%20wrapper,%20filter%20and%20intrinsic
+
+Anàlisi principal de components
+
+És important conèixer i assimilar els components bàsics d'anàlisis per després aprodunditzar amb conceptes d'un cert grau de complexitat.
+
+Intro PCA - principal component analysis
+
+    https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
+
+Advanced PCA - Principal component analysis
+
+    https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
+
+Qüestionari d’autoavaluació de correlation, Feature scaling and feature engineering
